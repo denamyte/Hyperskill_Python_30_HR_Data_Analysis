@@ -127,6 +127,6 @@ files:
     if __name__ == '__main__':
         AggTest().run_tests()
   learner_created: false
-feedback_link: https://hyperskill.org/projects/268/stages/1361/implement#comment
+feedback_link: https://hyperskill.org/learn/step/20896#comment
 status: Unchecked
 record: -1

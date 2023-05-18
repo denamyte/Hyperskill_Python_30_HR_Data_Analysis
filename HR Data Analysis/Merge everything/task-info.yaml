@@ -128,6 +128,6 @@ files:
     if __name__ == '__main__':
         MergingTest().run_tests()
   learner_created: false
-feedback_link: https://hyperskill.org/projects/268/stages/1359/implement#comment
+feedback_link: https://hyperskill.org/learn/step/20894#comment
 status: Unchecked
 record: -1

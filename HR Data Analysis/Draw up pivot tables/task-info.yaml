@@ -180,6 +180,6 @@ files:
     if __name__ == '__main__':
         PivotTest().run_tests()
   learner_created: false
-feedback_link: https://hyperskill.org/projects/268/stages/1362/implement#comment
+feedback_link: https://hyperskill.org/learn/step/20897#comment
 status: Unchecked
 record: -1

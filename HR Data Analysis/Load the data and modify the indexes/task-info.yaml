@@ -114,6 +114,9 @@ files:
     if __name__ == '__main__':
         IndexTest().run_tests()
   learner_created: false
-feedback_link: https://hyperskill.org/projects/268/stages/1358/implement#comment
+- name: initial_load.py
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/20893#comment
 status: Unchecked
 record: -1
